@@ -3,21 +3,21 @@ function Projects() {
     {
       title: "Student Management System",
       description: "C# program that uses ADO.Net to manage students.",
-      image: "/src/images/student_managment.png", 
+      image: "images/student_managment.PNG", 
       technologies: ["C#", "ADO.Net"],
       link: "https://github.com/Fourie-c0der/PRG272_Project"
     },
     {
       title: "Info Site",
       description: "A website that gives information about my university and all its certifications.",
-      image: "/src/images/bc_website.png", 
+      image: "images/bc_website.PNG", 
       technologies: ["Javascript", "HTML", "CSS"], 
       link: "https://github.com/Fourie-c0der/Interactive_Website/tree/main"
     },
     {
       title: "Docker App",
       description: "A student grade app that is run and tested in a docker container.",
-      image: "/src/images/docker_app.png", 
+      image: "images/docker_app.PNG", 
       technologies: ["C#", "Docker"], 
       link: "https://github.com/Fourie-c0der/Cloud-app-program"
     }
