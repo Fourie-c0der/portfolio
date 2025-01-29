@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import CV from '../assets/Fourie_Van_der_Walt_CV.pdf'
+import CV from '../assets/Fourie_van_der_Walt_CV.pdf'
 
 function Header() {
   const handleEmailClick = (e) => {
@@ -38,7 +38,7 @@ function Header() {
             </a>
           </li>
           <li>
-            <a className="glow-effect" href={CV} download="Fourie_Van_der_Walt_CV.pdf">
+            <a className="glow-effect" href={CV} download="Fourie_van_der_Walt_CV.pdf">
               CV
             </a>
           </li>
